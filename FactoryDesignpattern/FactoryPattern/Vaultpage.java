@@ -1,6 +1,11 @@
 public class Vaultpage(){
 Webdriver driver;
-Vaultscreen 
+Vaultscreen clickonsettingpage;
+
+  public Vaultpage(){
+    driver=hooks.get();
+    clickonsettingpage = 
+    
 
 
 }
