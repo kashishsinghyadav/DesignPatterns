@@ -1,6 +1,6 @@
 public class VaultPagefactory{
 
-public static Vaultpage createVaultPagescreen(Webdriver driver){
+public static Vaultscreen createVaultPagescreen(Webdriver driver){
           if(os.contain('Mac')){
               return new MacVaultLocator(driver);
             
