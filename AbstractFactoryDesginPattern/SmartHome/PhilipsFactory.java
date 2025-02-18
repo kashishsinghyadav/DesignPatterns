@@ -1,9 +1,9 @@
 public class PhilipsFactory extends SmartAbstractFactory{
-        public abstract getfan(){
+        public SmartFan getfan(){
 
         return new PhilipsFan();
         }
-        public abstract getlight(){
+        public SmartLight getlight(){
           return new PhilipsLight();
 
         }
