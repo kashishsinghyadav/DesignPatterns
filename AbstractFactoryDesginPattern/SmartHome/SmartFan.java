@@ -1,5 +1,5 @@
 public abstract class SmartFan{
-public abstract String getfan();
+public abstract String getfans();
 
 
 
