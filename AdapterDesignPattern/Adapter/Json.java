@@ -1,0 +1,5 @@
+interface Json {
+    void convertToJson();
+
+    
+} 
