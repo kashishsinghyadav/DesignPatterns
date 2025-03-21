@@ -4,4 +4,5 @@ public class Adaptermain {
         JsonConvertor jsonconvert = new JsonConvertor(xmldata);
         jsonconvert.convertToJson();
     }
+    
 }
