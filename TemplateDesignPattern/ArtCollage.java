@@ -4,3 +4,4 @@ public class ArtCollage  extends  RegistrationProcess{
         System.out.println("the candidate is evaluate on basis of portfolio");
     }
 }
+
