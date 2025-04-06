@@ -1,0 +1,3 @@
+interface Coffee {
+    double getcost();
+}
